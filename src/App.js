@@ -41,9 +41,9 @@ export default function Mail() {
           <div className="company-info">
             <h3>Acme Web Design</h3>
             <ul>
-              <li>{FaRoad}44 Something st</li>
-              <li><i className="fa fa-phone"></i> (555) 555-5555</li>
-              <li><i className="fa fa-envelope"></i> test@acme.test</li>
+              <li><FaRoad /> 44 Something st</li>
+              <li><MdPhoneInTalk /> (555) 555-5555</li>
+              <li><MdEmail /> test@acme.test</li>
             </ul>
           </div>
           <div className="contact">
